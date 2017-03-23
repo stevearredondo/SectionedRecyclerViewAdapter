@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_9aadcc9c790280b730e6819b19e0389fa9b7281a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_d040c9cf31908f7f2d5da212707edaac614534f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_6a74edc42b26a00c64d2a6801d4fc462ed63d472.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_9aadcc9c790280b730e6819b19e0389fa9b7281a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_9606ab83598c269a5cc70f179673caf402a17340.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_6a74edc42b26a00c64d2a6801d4fc462ed63d472/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_9606ab83598c269a5cc70f179673caf402a17340/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_d040c9cf31908f7f2d5da212707edaac614534f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_0417c055611d60dbc32f8bcdddd51a7fdd40862a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_163f32463738c51f2821bf401aeaf877f031fd9d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_76898e4f64da4e03515aaffe2d8dcd516b2315c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_76898e4f64da4e03515aaffe2d8dcd516b2315c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_98bc12db3f184edac89013fe61e624c13857fc36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_c4a7dc6487833d38a9aa2cbafbd74102510385a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b155e9cde7b432baa48f985ce6f73aeb4d2f5f1b">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3a0e9ce4dd2bb368e3d563c45cebe9ac2899459c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_163f32463738c51f2821bf401aeaf877f031fd9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_0417c055611d60dbc32f8bcdddd51a7fdd40862a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4d9988acc98cc8540547b3591b6e2f2f733a310">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5db58ea045ea529638b0a942ed46ce80b6c2fdf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_98bc12db3f184edac89013fe61e624c13857fc36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_c4a7dc6487833d38a9aa2cbafbd74102510385a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_754d9e3b8d500e58f9a54c2bb406734507f56f1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_5f66fd73a3ff3ac7e2020d25c57e5790e96ccda0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_5f66fd73a3ff3ac7e2020d25c57e5790e96ccda0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starredo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/starredo/samples/SectionedRVExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_754d9e3b8d500e58f9a54c2bb406734507f56f1e/classes.dex" />
+    </item>
+
+</items>
